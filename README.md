@@ -2,4 +2,7 @@
 Minimization deterministic finite automaton
   - identical states
   - unattainable conditions
-Using matrix of non-equivalent states algorithm
+ 
+ 
+ 
+ <p> Using matrix of non-equivalent states algorithm </p>
